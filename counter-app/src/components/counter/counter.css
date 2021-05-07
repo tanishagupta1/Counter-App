@@ -1,0 +1,43 @@
+
+
+button{
+    cursor: pointer;
+    background-color: green;
+    font-size: 20px;
+    border: solid 2px black;
+    padding: 10px 20px;
+    width: 120px;
+    color: white;
+    display: inline-block;
+    margin: 2px 2px;
+ 
+}
+.reset{
+    cursor: pointer;
+    background-color: red;
+    font-size: 20px;
+    border: solid 2px black;
+    padding: 10px 20px;
+    width: 250px;
+    color: white;
+    margin: 10px 10px;
+   text-align: center;
+}
+.count{
+    font-size: 150px;
+    padding: 10px 20px; 
+     margin: auto;
+}
+.head{
+    
+    font-family: 'Itim', cursive;
+    font-size: 50px;
+    color: black;
+    padding: 3px 3px;
+    margin: 20px 20px;
+    justify-content: center;
+    
+}
+.head:hover{
+     text-decoration: underline;
+}
